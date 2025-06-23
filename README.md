@@ -27,6 +27,6 @@ A simple calculator application built using Java that performs basic arithmetic 
 ## 👨‍💻 Author
 
 **Mugilan A**
-📧 almugilan180@gmail.com
+📧 [Gmail](almugilan180@gmail.com)
 💼 [LinkedIn](https://www.linkedin.com/in/mugilan-a-650019217)
 
